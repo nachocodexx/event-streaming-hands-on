@@ -38,9 +38,11 @@
 <!-- ABOUT THE PROJECT -->
 ## Software Architecture
 
-<a href="#">
-<img src="imgs/archi.jpg" alt="architecture">
-</a>
+<div align="center">
+	<a href="#">
+	<img src="imgs/archi.jpg" alt="architecture">
+	</a>
+</div>
 
 
 
