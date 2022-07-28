@@ -39,7 +39,7 @@
 ## Software Architecture
 
 <a href="#">
-<img src="imgs/archi.pdf" alt="architecture">
+<img src="imgs/archi.jpg" alt="architecture">
 </a>
 
 
