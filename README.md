@@ -57,6 +57,8 @@ In this hands-on we're gonna learn the fundamentals of Apache Kafka, basically h
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+* [Docker](https://docs.docker.com/engine/install/)
+* [Git](https://git-scm.com/downloads)
 * Kafka 
   ```sh
   pip install kafka-python
